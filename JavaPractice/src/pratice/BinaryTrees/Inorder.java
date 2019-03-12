@@ -75,7 +75,7 @@ public static void main(String args[])
 
 	insert(n,11);
 	
-	System.out.println();
+	System.out.println);
 	
 	Inorder(n);
 }
